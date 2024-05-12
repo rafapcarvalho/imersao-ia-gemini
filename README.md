@@ -1,7 +1,3 @@
-Claro, aqui está um exemplo de README para o código fornecido:
-
----
-
 # Chatbot de Receitas
 
 Este é um projeto de um chatbot que fornece receitas com base em perguntas feitas pelo usuário. O chatbot utiliza o modelo de linguagem de inteligência artificial Gemini 1.5 Pro da Google para gerar respostas e a biblioteca `docx` para extrair as páginas de documentos DOCX que contêm as receitas.
